@@ -26,7 +26,7 @@ class Reaction:
 
 
 class ReactionSystem:
-    def __init__(self, reactions: List[Reaction], max_steps: int = 10_000):
+    def __init__(self, reactions: List[Reaction], max_steps: int = 100_000):
         # Sort once by priority
         self.reactions = sorted(reactions, key=lambda r: r.priority)
         self.max_steps = max_steps
