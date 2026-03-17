@@ -15,9 +15,9 @@ AI credit:
 from reaction_system import Reaction, ReactionSystem
 import math
 
-x1 = 0
-x2 = 1
-n = 11  # number of steps to be executed
+x1 = 3
+x2 = 7
+n = 12  # number of steps to be executed
 
 state = {
     'x1': x1,
