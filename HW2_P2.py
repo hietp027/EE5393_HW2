@@ -38,7 +38,6 @@ reactions = [
 
     # X' → D + A
     Reaction('R2', {'Xp':1}, {'D':1,'A':1}, 2),
-    #Reaction('R2', {'X':1}, {'D':1,'A':1}, 2),
 
     # 8A → Y
     Reaction('R3', {'A':8}, {'Y':1}, 1),
