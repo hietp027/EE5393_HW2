@@ -9,3 +9,6 @@ HW2_P1.py : simulation of reaction system proposed in homework submission file t
 
 -----------Problem 2-----------
 
+my_FIR.py : test simulation of FIR reaction system of my own design, written by me
+
+HW2_P2.py : simulation of reaction system proposed in homework submission file to complete problem 2, written by me
